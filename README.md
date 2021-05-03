@@ -1,4 +1,4 @@
 # data200_datascienceresumes
-A collection of data science resumes for the DATA-200 course. 
+Here is Christian North's Resume.
 
-Inspired by Eric Scott's data science resume sample and Yihui's **pagedown** package. Thanks to you both! 
+It does not have much on it. Only my RMD file matters. Thank you.
