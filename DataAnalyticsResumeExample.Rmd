@@ -1,0 +1,129 @@
+---
+title: "Christian North"
+author: Christian North
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>christian.north@tufts.edu
+- <i class="fa fa-github"></i> [github.com/Poombo/](https://github.com/Poombo/)
+- <i class="fa fa-phone"></i> +1 770-508-3740
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Coding
+
+- Speaking
+
+- Writing
+
+- Thinking
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Christian North {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2020 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Innovation and Management
+
+Medford, MA
+
+2020--Current
+
+
+### Undergraduate University
+
+B.A. in Cognitive Brain Science
+
+Medford, MA 
+
+2016--2020
+
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### NONE
+
+N/A
+
+N/A
+
+N/A
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Introduction to Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2020--2021
+
+<!--::: concise-->
+<!--:::-->
+
+
+
+
+### Other project
+
+N/A
+
+N/A
+
+N/A
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
+
+Medford, MA
+
+March 2021
